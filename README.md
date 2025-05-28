@@ -33,7 +33,7 @@ Follow these steps to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/faridhafizh/ChainVault.git](https://github.com/faridhafizh/ChainVault.git)
+    git clone https://github.com/faridhafizh/ChainVault.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -57,6 +57,7 @@ To run the application, execute the main Python script from your terminal:
 
 ```sh
 python main.py
+```
 
 The first time you run it, you will be prompted to create a strong master password. Do not forget this password! It is the only way to decrypt your vault.
 
